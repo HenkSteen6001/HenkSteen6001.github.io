@@ -5,7 +5,7 @@ ul {
 	border-style: solid;
 	border-width: 1px;
 }
-h1 {
+ul {
 	padding: 12px;
 	background-color: white;
 	color: black;
@@ -18,14 +18,15 @@ ul li {
 	margin-left: 0.5em;
 }
 ul li a {
-	color: white;
+	color: black;
 }
-ul {
+h1 {
 	border-style: solid;
 	border-width: 1px;
 	padding: 0.5em;
 	border-radius: 0.5em;
 	background-color: 0.5em;
+	color: white;
 }
 p {
 	color: white;
