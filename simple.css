@@ -1,5 +1,7 @@
 body {
 	font-family: Calibri;
+	background-image: url("bg6.jpg");
+	color: white;
 }
 ul {
 	border-style: solid;
@@ -8,7 +10,6 @@ ul {
 ul {
 	padding: 12px;
 	background-color: white;
-	color: black;
 	border-radius: 10px;
 }
 ul li {
@@ -18,7 +19,6 @@ ul li {
 	margin-left: 0.5em;
 }
 ul li a {
-	color: black;
 }
 h1 {
 	border-style: solid;
